@@ -10,7 +10,6 @@ import android.view.ViewGroup;
 public class SentItemsFragment extends Fragment {
 
     public SentItemsFragment() {
-        // Required empty public constructor
     }
 
     @Override

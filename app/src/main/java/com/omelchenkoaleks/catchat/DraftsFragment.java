@@ -9,9 +9,7 @@ import android.view.ViewGroup;
 
 public class DraftsFragment extends Fragment {
 
-
     public DraftsFragment() {
-        // Required empty public constructor
     }
 
     @Override
